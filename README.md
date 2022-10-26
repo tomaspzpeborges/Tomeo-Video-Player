@@ -1,3 +1,5 @@
-# Tomeo Video Player 
+# Tomeo Video Player
 
-Check report for more details
+Project focused on improving a basic video player application.
+
+Check report for more details.
